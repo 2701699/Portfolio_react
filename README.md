@@ -1,13 +1,5 @@
 
-
-
-
-
-
-
-
-
-Projet de portfolio en utilisant react
+Projet de portfolio en utilisant react fait par Bilal Elarchi.
 
 
 
